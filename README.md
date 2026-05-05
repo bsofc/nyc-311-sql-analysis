@@ -9,9 +9,9 @@ Analyzed 50,000+ NYC 311 service requests from September 2025 using SQLite and P
 - **Illegal Parking is the #1 complaint type** (16.6% of all requests)
 
 ## Files
-create_db.py - Builds SQLite database from CSV
-cv_analysis_final.py - Runs 8 SQL analysis queries
-nyc_311_sample.csv - Source data (50,000+ records)
+- create_db.py - Builds SQLite database from CSV
+- cv_analysis_final.py - Runs 8 SQL analysis queries
+- nyc_311_sample.csv - Source data (50,000+ records)
 
 ## Author
 Sofia — McGill University, B.Sc. Statistics & Computer Science
