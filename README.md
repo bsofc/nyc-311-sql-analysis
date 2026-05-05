@@ -13,5 +13,3 @@ Analyzed 50,000+ NYC 311 service requests from September 2025 using SQLite and P
 - cv_analysis_final.py - Runs 8 SQL analysis queries
 - nyc_311_sample.csv - Source data (50,000+ records)
 
-## Author
-Sofia — McGill University, B.Sc. Statistics & Computer Science
